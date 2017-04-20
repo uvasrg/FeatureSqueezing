@@ -1,8 +1,8 @@
 [submodule "externals/cleverhans"]
 	path = externals/cleverhans
-    url = https://github.com/openai/cleverhans.git
+	url = https://github.com/openai/cleverhans.git
     ignore = dirty
 [submodule "externals/tensorflow-models"]
 	path = externals/tensorflow-models
-    url = https://github.com/tensorflow/models.git
+	url = https://github.com/tensorflow/models.git
     ignore = dirty
