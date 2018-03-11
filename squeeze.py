@@ -20,8 +20,9 @@ def reduce_precision_tf(x, npp):
     """
     Reduce the precision of image, the tensorflow version.
     """
+    x_clip = tf.clip_by_value(x, 0., 1.)
     npp_int = npp - 1
-    x_int = tf.rint(tf.multiply(x, npp_int))
+    x_int = tf.rint(tf.multiply(x_clip, npp_int))
     x_float = tf.div(x_int, npp_int)
     return x_float
 
