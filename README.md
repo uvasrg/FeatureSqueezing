@@ -3,6 +3,11 @@
   
 <img src="http://evademl.org/images/squeezing.png" height="150" width="360" alt="idea_figure" >  
 
+## Latest Updates
+
+**Please move on to our [EvadeML-Zoo](http://evademl.org/zoo/) project if you would like to conduct experiments on more datasets and models.**
+
+
 ## Run the code
 
 ### 1. Install dependencies.
