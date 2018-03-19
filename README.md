@@ -5,8 +5,11 @@
 
 ## Latest Updates
 
+This repository is **now obsolete**.
+
 **Please move on to our [EvadeML-Zoo](http://evademl.org/zoo/) project if you would like to conduct experiments on more datasets and models.**
 
+The old repository is preserved here, but please use https://github.com/mzweilin/EvadeML-Zoo instead of this one.
 
 ## Run the code
 
